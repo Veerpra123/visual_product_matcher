@@ -34,29 +34,6 @@ Frontend runs on **React (Vite)**, while the backend is powered by **FastAPI + C
 
 ---
 
-## 📂 Project Structure
-visual_product_matcher/
-│── backend/ # FastAPI backend 
-│ ├── data/ # Data (CSV, embeddings, ids)
-│ ├── tools/ # Helper scripts
-│ ├── app.py # Main FastAPI app
-│ └── requirements.txt # Backend dependencies
-│
-│── frontend/ # React (Vite) frontend
-│ ├── public/
-│ ├── src/
-│ ├── index.html
-│ ├── package.json
-│ └── vite.config.js
-│
-│── .env.example # Example environment file
-│── .gitignore
-│── README.md # Project documentation
----
-
-
----
-
 ## ⚡ How It Works
 1. **demo** ([Vercel link](https://visual-product-matcher-opal.vercel.app))  
 2. Uploads an image (or pastes an image URL)  
