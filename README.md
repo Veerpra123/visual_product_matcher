@@ -54,3 +54,19 @@ Frontend runs on **React (Vite)**, while the backend is powered by **FastAPI + C
 ## 🚀 Demo
 👉 **(Public):** [visual-product-matcher-opal.vercel.app](https://visual-product-matcher-opal.vercel.app)  
  
+## 🔍 Try Searching These Products
+
+To explore the **Visual Product Matcher**, you can upload an image or search using a URL.  
+Here are some sample product categories you can try:
+
+- 💻 **Laptop**, **Smartphone**, **Tablet**, **Smartwatch**  
+- 👕 **T-shirt**, **Jeans**, **Jacket**, **Sneakers**, **Formal Shoes**  
+- ⌚ **Wristwatch**, **Wireless Earbuds**, **Headphones**, **Bluetooth Speaker**  
+- 🛋️ **Sofa**, **Wardrobe**, **Dining Table**, **Study Desk**, **Bookshelf**  
+- 🍳 **Mixer Grinder**, **Induction Cooktop**, **Pressure Cooker**, **Microwave Oven**, **Refrigerator**  
+- 🧴 **Shampoo**, **Sunscreen**, **Face Wash**, **Moisturizer**, **Perfume**  
+- 🏋️ **Dumbbells**, **Treadmill**, **Yoga Mat**, **Bicycle**, **Cricket Bat**  
+- 👜 **Handbag**, **Backpack**, **Leather Belt**, **Wallet**  
+- 🖨️ **Printer**, **Digital Camera**, **Gaming Console**, **Power Bank**  
+
+👉 Just **upload an image** (e.g., of a **watch or laptop**) or **paste an image URL**, and the system will return **visually similar products** from the dataset.
